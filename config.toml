@@ -1,0 +1,5 @@
+baseURL = "https://nickbryan.co.uk/"
+languageCode = "en-gb"
+title = "Nick Bryan | Experienced Developer and Software Enthusiast"
+theme = "custom"
+publishDir = "docs"
